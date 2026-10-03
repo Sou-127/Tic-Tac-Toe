@@ -18,5 +18,8 @@ The game allows two players to play against each other by taking turns placing *
 - **CSS3** - Styling and layout
 - **JavaScript** - Game logic and DOM manipulation
 
-<img scr = "Screenshot(32).png" width = "500">
+<img scr = "<img width="1253" height="828" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/180a0bc1-a90f-4735-91d7-96615e1cd63f" />
+" width = "500">
+
+
 
