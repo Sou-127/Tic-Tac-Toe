@@ -18,7 +18,7 @@ The game allows two players to play against each other by taking turns placing *
 - **CSS3** - Styling and layout
 - **JavaScript** - Game logic and DOM manipulation
 
-<img width="100" height="100" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/180a0bc1-a90f-4735-91d7-96615e1cd63f" />
+<img width="500" height="100" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/180a0bc1-a90f-4735-91d7-96615e1cd63f" />
 
 
 
